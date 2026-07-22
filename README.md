@@ -218,7 +218,7 @@ Our vision is to use Artificial Intelligence responsibly to help people better m
 * Siddharth Saxena
 * Anuj Shintre
 * Khyati Agarwal
-* Sampat Naik
+* Sampath Naik
 
 ---
 
